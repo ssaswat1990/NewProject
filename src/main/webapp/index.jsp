@@ -10,9 +10,9 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Welcome to DevOps World</h2>
+		<h2>Welcome to TCS</h2>
 		<h3>
-			<a href="hello?name= Vidit Singh">Click Here</a>
+			<a href="hello?name= HELLO TCSER">Click Here</a>
 		</h3>
 	</center>
 </body>
