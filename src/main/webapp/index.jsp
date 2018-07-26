@@ -10,9 +10,9 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Welcome to Dummy World</h2>
+		<h2>Welcome to DevOps World</h2>
 		<h3>
-			<a href="hello?name= Success Branch 1:30">Click Here</a>
+			<a href="hello?name= Today is Jul 26">Click Here</a>
 		</h3>
 	</center>
 </body>
