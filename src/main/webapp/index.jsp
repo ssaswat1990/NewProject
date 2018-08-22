@@ -5,14 +5,14 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Dummy World Index Page</title>
+<title>Trial Training</title>
 </head>
 <body>
  
 	<center>
-		<h2>Welcome to TCS</h2>
+		<h2>This is a Test</h2>
 		<h3>
-			<a href="hello?name= MERCI ">Click Here</a>
+			<a href="hello?name= Vishal Singhal ">Click Here</a>
 		</h3>
 	</center>
 </body>
