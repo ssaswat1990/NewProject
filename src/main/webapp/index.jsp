@@ -12,7 +12,7 @@ pageEncoding="ISO-8859-1"%>
 	<center>
 		<h2>This is a Test</h2>
 		<h3>
-			<a href="hello?name= Vishal Singhal ">Click Here</a>
+			<a href="hello?name= EIA ">Click Here</a>
 		</h3>
 	</center>
 </body>
