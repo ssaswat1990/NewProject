@@ -4,7 +4,7 @@
   <groupId>com.tcs</groupId>
   <artifactId>DummyApplication</artifactId>
   <packaging>war</packaging>
-  <version>1.62</version>
+  <version>1.621</version>
   <name>DummyApplication Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
