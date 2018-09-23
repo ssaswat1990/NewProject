@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>This is a Automated CI</h2>
+		<h2>This is a Automated CntegrationI</h2>
 		<h3>
 			<a href="hello?name=Vivek Kumar Singh">Click Here</a>
 		</h3>
