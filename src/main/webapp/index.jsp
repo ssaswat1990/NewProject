@@ -5,14 +5,14 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Trial Training</title>
+<title>OFFSHORE TRAINING</title>
 </head>
 <body>
  
 	<center>
-		<h2>TRY ME</h2>
+		<h2>TRY ME PLEASE</h2>
 		<h3>
-			<a href="hello?name=Mr. Vivek Kumar Singh">Click Here</a>
+			<a href="hello?name=Mr. VISHAL">Click Here</a>
 		</h3>
 	</center>
 </body>
