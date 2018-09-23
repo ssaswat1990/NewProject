@@ -10,9 +10,9 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>This is a Automated CntegrationI</h2>
+		<h2>This is a Automated Continuous Integration</h2>
 		<h3>
-			<a href="hello?name=Mr . Vivek Kumar Singh">Click Here</a>
+			<a href="hello?name=Mr. Vivek Kumar Singh">Click Here</a>
 		</h3>
 	</center>
 </body>
