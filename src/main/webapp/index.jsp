@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>This is a Test OK</h2>
+		<h2>This is a Testing</h2>
 		<h3>
 			<a href="hello?name=Vishal Singhal">Click Here</a>
 		</h3>
