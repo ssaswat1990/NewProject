@@ -12,7 +12,7 @@ pageEncoding="ISO-8859-1"%>
 	<center>
 		<h2>Sep 24</h2>
 		<h3>
-			<a href="hello?name=Mr. Skyguide">Click Here</a>
+			<a href="hello?name=Skyguide">Click Here</a>
 		</h3>
 	</center>
 </body>
