@@ -14,7 +14,7 @@ public class TestController {
 			@RequestParam(value = "name", required = false, defaultValue = "Skyguide") String name) {
 		System.out.println("in controller");
  
-		ModelAndView mv = new ModelAndView("Consulting");
+		ModelAndView mv = new ModelAndView("dummyworld");
 		mv.addObject("message", message);
 		mv.addObject("name", name);
 		return mv;
