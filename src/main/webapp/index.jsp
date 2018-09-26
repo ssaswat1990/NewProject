@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Welcome to Offshore Training</h2>
+		<h2>Welcome to devOps World</h2>
 		<h3>
 			<a href="hello?name=Skyguide offshore paradise">Click Here</a>
 		</h3>
