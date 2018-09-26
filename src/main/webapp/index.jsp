@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Welcome to Agiity World</h2>
+		<h2>Welcome to Agiity </h2>
 		<h3>
 			<a href="hello?name=Skyguide">Click Here</a>
 		</h3>
