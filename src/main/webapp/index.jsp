@@ -12,7 +12,7 @@ pageEncoding="ISO-8859-1"%>
 	<center>
 		<h2>Welcome to Zurich </h2>
 		<h3>
-			<a href="hello?name=Skyguide">Click Here</a>
+			<a href="hello?name=TCS">Click Here</a>
 		</h3>
 	</center>
 </body>
