@@ -7,7 +7,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 public class TestController {
-	String message = "Welcome!";
+	String message = "Welcome";
 	 
 	@RequestMapping("/hello")
 	public ModelAndView showMessage(
