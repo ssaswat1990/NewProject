@@ -5,12 +5,12 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Day122</title>
+<title>Sep25</title>
 </head>
 <body>
  
 	<center>
-		<h2>Welcome to devOps World</h2>
+		<h2>Welcome to DevOps World</h2>
 		<h3>
 			<a href="hello?name=Skyguide">Click Here</a>
 		</h3>
