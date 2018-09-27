@@ -5,14 +5,14 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>DayOne</title>
+<title>Day2</title>
 </head>
 <body>
  
 	<center>
-		<h2>Welcome to Artifactory Session</h2>
+		<h2>Welcome to Day2 Jenkins Session</h2>
 		<h3>
-			<a href="hello?name=Skyguide">Click Here</a>
+			<a href="hello?name=FSS Team">Click Here</a>
 		</h3>
 	</center>
 </body>
