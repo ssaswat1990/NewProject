@@ -10,9 +10,9 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Welcome to Jenkins Tutorial</h2>
+		<h2>Welcome to Jenkins Session</h2>
 		<h3>
-			<a href="hello?name=TCS">Click Here</a>
+			<a href="hello?name=Skyguide">Click Here</a>
 		</h3>
 	</center>
 </body>
