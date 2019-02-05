@@ -5,14 +5,14 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Day21</title>
+<title>Day1</title>
 </head>
 <body>
  
 	<center>
 		<h2>Welcome to Jenkins Tutorial</h2>
 		<h3>
-			<a href="hello?name=Change2">Click Here</a>
+			<a href="hello?name=Change3">Click Here</a>
 		</h3>
 	</center>
 </body>
