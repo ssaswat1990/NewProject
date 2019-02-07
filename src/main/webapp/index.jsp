@@ -5,14 +5,14 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Day1</title>
+<title>One</title>
 </head>
 <body>
  
 	<center>
-		<h2>Welcome to GitHub Tutorial</h2>
+		<h2>Welcome to GitHub Jenkins Integration</h2>
 		<h3>
-			<a href="hello?name=facktokkr88y">Click Here</a>
+			<a href="hello?name=SUCCESS">Click Here</a>
 		</h3>
 	</center>
 </body>
