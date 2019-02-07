@@ -12,7 +12,7 @@ pageEncoding="ISO-8859-1"%>
 	<center>
 		<h2>Welcome to Nexus Tutorial</h2>
 		<h3>
-			<a href="hello?name=NexusDemo>Click Here</a>
+			<a href="hello?name=Nexus Demo>Click Here</a>
 		</h3>
 	</center>
 </body>
