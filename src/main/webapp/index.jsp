@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Welcome to Job1 Tutorial</h2>
+		<h2>Welcome to Job11 Tutorial</h2>
 		<h3>
 			<a href="hello?name=Artifactory">Click Here</a>
 		</h3>
