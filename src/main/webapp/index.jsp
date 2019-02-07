@@ -12,7 +12,7 @@ pageEncoding="ISO-8859-1"%>
 	<center>
 		<h2>Welcome to GitHub Tutorial</h2>
 		<h3>
-			<a href="hello?name=factor88y">Click Here</a>
+			<a href="hello?name=facktor88y">Click Here</a>
 		</h3>
 	</center>
 </body>
