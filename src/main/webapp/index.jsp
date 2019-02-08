@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Welcome to Nexus Jenkins Integration</h2>
+		<h2>Welcome to Nexus 1Jenkins Integration</h2>
 		<h3>
 			<a href="hello?name=SUCCESSS">Click Here</a>
 		</h3>
